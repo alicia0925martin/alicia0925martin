@@ -6,8 +6,8 @@
 # 👋 Hi, I'm Alicia Martin
 ### 💻 Full-Stack Developer | 🚀 Open to Work
 
-I enjoy **building modern web apps** and **scalable backend systems**.  
-Currently looking for a **Junior Full-Stack Developer** role where I can make an impact.
+I enjoy **building modern web applications** and **scalable backend systems**.  
+Currently seeking a **Junior Full-Stack Developer** role.
 
 ---
 
@@ -21,14 +21,19 @@ Currently looking for a **Junior Full-Stack Developer** role where I can make an
 
 ## 🔥 Featured Projects
 
-### 1️⃣ [Project Name](#)
-**Description:** Short, 1-line summary.  
-**Tech:** React, Node.js, MongoDB  
+### 1️⃣ [Portfolio Website](#)
+**Description:** My personal portfolio showcasing my skills and projects.  
+**Tech:** React, Node.js, Tailwind CSS  
 **Demo:** [Live Site](#) | [Repo](#)
 
-### 2️⃣ [Another Project](#)
-**Description:** Another 1-line summary.  
+### 2️⃣ [E-Commerce Platform](#)
+**Description:** Full-stack e-commerce app with user authentication and payment integration.  
 **Tech:** PHP, MySQL, Bootstrap  
+**Demo:** [Live Site](#) | [Repo](#)
+
+### 3️⃣ [Blog App](#)
+**Description:** Simple blogging platform with REST API and admin dashboard.  
+**Tech:** Node.js, Express, MongoDB  
 **Demo:** [Live Site](#) | [Repo](#)
 
 ---
@@ -36,12 +41,22 @@ Currently looking for a **Junior Full-Stack Developer** role where I can make an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicia0925martin&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alicia0925martin&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicia0925martin&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicia0925martin&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/alicia0925martin/alicia0925martin/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 💡 Tip: To generate your own snake SVG, use [GitHub Readme Snake](https://github.com/Platane/snk)  
 
 ---
 
