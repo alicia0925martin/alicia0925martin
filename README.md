@@ -12,9 +12,9 @@
 <!-- 📊 Activity & Status -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=sahilmd01&label=Profile%20Views&color=00ffff&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/sahilmd01?label=Followers&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/sahilmd01?affiliations=OWNER%2CCOLLABORATOR&style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=alicia0925martin&label=Profile%20Views&color=00ffff&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/alicia0925martin?label=Followers&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/alicia0925martin?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 </div>
 
@@ -110,17 +110,17 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilmd01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmd01&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alicia0925martin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicia0925martin&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmd01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicia0925martin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <!-- 📈 Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmd01&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicia0925martin&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilmd01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=alicia0925martin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" width="100%"/>
   </a>
 </p>
 
@@ -151,7 +151,7 @@
   <a href="https://buymeacoffee.com/sahilmd" target="_blank">
     <img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
-  <a href="https://github.com/sponsors/sahilmd01" target="_blank">
+  <a href="https://github.com/sponsors/alicia0925martin" target="_blank">
     <img src="https://img.shields.io/badge/💝-Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
   <a href="https://paypal.me/sahilmd" target="_blank">
@@ -173,11 +173,11 @@
 
 <div align="center">
 
-  ![Visitor Counter](https://count.getloli.com/get/@sahilmd01?theme=rule34)
+  ![Visitor Counter](https://count.getloli.com/get/@alicia0925martin?theme=rule34)
   
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilmd01&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alicia0925martin&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
 
 </div>
 
