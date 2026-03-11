@@ -32,7 +32,7 @@
 👯 Collaborating On: "MERN Stack Projects"<br>
 🤝 Looking For Help With: "MERN, Python, Java"<br>
 💬 Ask Me About: "Full-Stack Development"<br>
-📫 Reach Me At: alisa_sniper0020@gmail.com<br>
+📫 Reach Me At: alisa_sniper0020@outlook.com<br>
 ⚡ Fun Fact: "💻 Code by day, hack ethically by night, teach with fun!"<br>
       
 
