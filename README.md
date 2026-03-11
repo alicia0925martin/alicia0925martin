@@ -5,7 +5,7 @@
 
 <!-- 🎯 Dynamic Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Sahil,+a+Full+Stack+Developer!" alt="Typing Intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Alicia,+a+Full+Stack+Developer!" alt="Typing Intro">
 </h1>
 
 
@@ -32,7 +32,7 @@
 👯 Collaborating On: "MERN Stack Projects"<br>
 🤝 Looking For Help With: "MERN, Python, Java"<br>
 💬 Ask Me About: "Full-Stack Development"<br>
-📫 Reach Me At: sahilmd.dev@gmail.com<br>
+📫 Reach Me At: alisa_sniper0020@gmail.com<br>
 ⚡ Fun Fact: "💻 Code by day, hack ethically by night, teach with fun!"<br>
       
 
