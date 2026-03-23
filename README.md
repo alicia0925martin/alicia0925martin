@@ -125,13 +125,13 @@
 
 ---
 
-### 🏆 GitHub Achievements
+<!-- ### 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/alicia0925martin">
     <img src="https://github-profile-trophy.vercel.app/?username=alicia0925martin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" width="100%"/>
   </a>
-</p>
+</p> -->
 
 ---
 
