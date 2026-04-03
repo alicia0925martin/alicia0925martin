@@ -169,19 +169,7 @@
 
 ---
 
-### 🛰️ Real-time Metrics
 
-<div align="center">
-
-  ![Visitor Counter](https://count.getloli.com/get/@alicia0925martin?theme=rule34)
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alicia0925martin&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
-
-</div>
-
----
 
 ### 🧩 Summary
 
