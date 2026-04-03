@@ -91,19 +91,6 @@
 
 </div>
 
----
-
-### 🚀 Active Projects
-
-<div align="center">
-
- | 💡 Project                                                | 🧩 Tech Stack                      | 📱 Status        | 🌐 Demo                                                 |
- | ----------------------------------------------------------| -----------------------------------| ---------------- | ---------------------------------------------------------|
- | 🛍️ **GenAxis **                                           | PERN, Google Gemini, clerk         | 🟢 90% Development  | [View Demo](https://genaxis.vercel.app)                  |
- | 💬 **Conversa video call & chat app (real time)**         | React, Node, Socket.io ,stream     | 🟡 Development   | [View Demo](https://conversa-connect.onrender.com/)       |
- | 🎬 **Avoliq**                                             | React.js, Tailwind                 | 🟢 development   | [View Demo](https://avoliq.vercel.app)                   |
-
-</div>
 
 ---
 
