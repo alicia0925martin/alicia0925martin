@@ -92,25 +92,6 @@
 </div>
 
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicia0925martin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicia0925martin&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicia0925martin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<!-- 📈 Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicia0925martin&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 <!-- ### 🏆 GitHub Achievements
 
